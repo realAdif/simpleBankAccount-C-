@@ -1,0 +1,6 @@
+/Users/vault/Documents/Programming/C#/Bank/BankAccout/BankAccout/bin/Debug/BankAccout.exe
+/Users/vault/Documents/Programming/C#/Bank/BankAccout/BankAccout/bin/Debug/BankAccout.pdb
+/Users/vault/Documents/Programming/C#/Bank/BankAccout/BankAccout/obj/Debug/BankAccout.csproj.AssemblyReference.cache
+/Users/vault/Documents/Programming/C#/Bank/BankAccout/BankAccout/obj/Debug/BankAccout.csproj.CoreCompileInputs.cache
+/Users/vault/Documents/Programming/C#/Bank/BankAccout/BankAccout/obj/Debug/BankAccout.exe
+/Users/vault/Documents/Programming/C#/Bank/BankAccout/BankAccout/obj/Debug/BankAccout.pdb
